@@ -39,6 +39,11 @@
 <hr style="margin: 16px 0;"/>
 
 <div align="center">
-  <a href="#" title="Telegram"><img src="Logos/telegram-8x.png" alt="Telegram" height="40" style="margin:6px 10px;"></a>
-  <a href="#" title="LeetCode"><img src="Logos/leetcode-dark-8x.png" alt="LeetCode" height="40" style="margin:6px 10px;"></a>
+  <a href="https://t.me/ba6kir" title="Telegram" target="_blank" rel="noopener noreferrer">
+    <img src="Logos/telegram-8x.png" alt="Telegram" height="40" style="margin:6px 10px;">
+  </a>
+  <a href="https://leetcode.com/u/AlexToday666/" title="LeetCode" target="_blank" rel="noopener noreferrer">
+    <img src="Logos/leetcode-dark-8x.png" alt="LeetCode" height="40" style="margin:6px 10px;">
+  </a>
 </div>
+
