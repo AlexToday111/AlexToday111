@@ -17,15 +17,21 @@
   <img src="https://img.shields.io/badge/Languages%20%26%20Platforms-000000?style=for-the-badge" alt="Languages & Platforms">
 </p>
 
-<p align="center">
-  <a href="https://www.java.com/"><img src="Logos/java-8x.png" height="40"/></a>
-  <a href="https://www.python.org/"><img src="Logos/python-8x.png" height="40"/></a>
-  <a href="https://isocpp.org/"><img src="Logos/c-plusplus-8x.png" height="40"/></a>
-  <br>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="Logos/javascript-8x.png" height="40"/></a>
-  <a href="https://nodejs.org/"><img src="Logos/nodejs-8x.png" height="40"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5"><img src="Logos/html5-plain-8x.png" height="40"/></a>
-</p>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.java.com/"><img src="Logos/java-8x.png" height="40" alt="Java"></a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.python.org/"><img src="Logos/python-8x.png" height="40" alt="Python"></a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://isocpp.org/"><img src="Logos/c-plusplus-8x.png" height="40" alt="C++"></a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <p align="center">
