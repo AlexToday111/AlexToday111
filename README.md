@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <code style="padding:6px 10px; border-radius:10px; background:#FFD700; color:#000;">Agile</code>
-  <code style="padding:6px 10px; border-radius:10px; background:#000; color:#FFD700;">Scrum</code>
-  <code style="padding:6px 10px; border-radius:10px; background:#FFD700; color:#000;">Kanban</code>
+  <img src="https://img.shields.io/static/v1?label=&message=Agile&color=FFD700&style=for-the-badge" alt="Agile"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Scrum&color=000000&style=for-the-badge" alt="Scrum"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Kanban&color=FFD700&style=for-the-badge" alt="Kanban"/>
 </p>
 
 <p align="center">
