@@ -58,6 +58,13 @@
     <td><a href="https://git-scm.com/"><img src="Logos/git-icon-8x.png" height="40"/></a></td>
     <td><a href="https://grafana.com/"><img src="Logos/grafana-8x.png" height="40"/></a></td>
   </tr>
+  <!-- 4-я строка -->
+  <tr>
+    <td><a href="https://www.docker.com/"><img src="Logos/docker-icon-8x.png" height="40"/></a></td>
+    <td><a href="https://hibernate.org/"><img src="Logos/hibernate-8x.png" height="40"/></a></td>
+    <td><a href="https://redis.io/"><img src="Logos/redis-original-8x.png" height="40"/></a></td>
+    <td><a href="https://www.rabbitmq.com/"><img src="Logos/rabbitmq-original-8x.png" height="40"/></a></td>
+  </tr>
 </table>
 
 
