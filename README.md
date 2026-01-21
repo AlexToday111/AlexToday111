@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AlexToday666?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/AlexToday111?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
@@ -81,5 +81,5 @@
 
 <p align="center">
   <a href="https://t.me/ba6kir"><img src="Logos/telegram-8x.png" height="40"/></a>
-  <a href="https://leetcode.com/u/AlexToday666/"><img src="Logos/leetcode-dark-8x.png" height="40"/></a>
+  <a href="https://leetcode.com/u/AlexToday111/"><img src="Logos/leetcode-dark-8x.png" height="40"/></a>
 </p>
