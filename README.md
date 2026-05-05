@@ -76,7 +76,7 @@
 
 <tr>
 <td colspan="4">
-  <hr>
+  <div style="height: 2px; background-color: #7B2CBF; border-radius: 2px;"></div>
 </td>
 </tr>
 
