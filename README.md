@@ -197,9 +197,22 @@
 
 ---
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AlexToday111?theme=dark&font=baloo&ext=contest" alt="LeetCode stats">
-</p>
+<table align="center">
+<tr>
+<td align="center" width="40%">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexToday111&theme=tokyonight&exclude=html,css"
+    alt="Top Languages"
+  />
+</td>
+<td align="center" width="60%">
+  <img
+    src="https://leetcard.jacoblin.cool/AlexToday111?theme=dark&font=baloo&ext=contest"
+    alt="LeetCode stats"
+  />
+</td>
+</tr>
+</table>
 
 <h2 align="center">Contacts</h2>
 
