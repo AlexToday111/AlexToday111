@@ -175,6 +175,22 @@
 <td width="25%" valign="top" align="center">
 
 <p>
+  <img src="Logos/projects/atlas.png" height="64" alt="ATLAS logo">
+  <br>
+  <b>ATLAS</b>
+  <br>
+  <sub>Персональная AI-система для управления режимом, спортом, восстановлением, привычками, питанием и прогрессом.</sub>
+  <br><br>
+  <sub><b>Stack:</b> Java 21, Spring Boot, PostgreSQL, Flyway, Maven, Docker, Telegram Bot API, JUnit 5</sub>
+  <br><br>
+  <a href="https://github.com/ATLAS-lifeops/ATLAS">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
+  </a>
+</p>
+
+<br>
+
+<p>
   <b>Trade360Lab</b>
   <br>
   <sub>Платформа для исследования, подготовки данных, запуска и сравнения торговых сценариев.</sub>
@@ -185,8 +201,6 @@
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
   </a>
 </p>
-
-<!-- Add second commercial project here if needed -->
 
 </td>
 
