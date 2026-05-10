@@ -83,8 +83,9 @@
 <tr>
 
 <td width="25%" valign="top" align="center">
-
 <p>
+  <img src="Logos/projects/Notification.png" height="64" alt="Notification logo">
+  <br>
   <b>Notification Subscription Platform</b>
   <br>
   <sub>Событийная платформа уведомлений с подписками и доставкой через несколько каналов.</sub>
@@ -95,26 +96,12 @@
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
   </a>
 </p>
-
-<br>
-
-<p>
-  <b>Smart Activity Tracker</b>
-  <br>
-  <sub>Сервис для сбора пользовательских событий и расчёта базовой продуктовой аналитики.</sub>
-  <br><br>
-  <sub><b>Stack:</b> Java, Spring Boot, PostgreSQL, Flyway, OpenAPI, Prometheus, Grafana, Testcontainers</sub>
-  <br><br>
-  <a href="https://github.com/AlexToday111/Smart-Activity-Tracker">
-    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
-  </a>
-</p>
-
 </td>
 
 <td width="25%" valign="top" align="center">
-
 <p>
+  <img src="Logos/projects/porta-logo.svg" height="64" alt="Porta logo">
+  <br>
   <b>Porta Trading System</b>
   <br>
   <sub>Распределённая MVP-система для трейдинга с дашбордом, Kafka-событиями и состоянием портфеля.</sub>
@@ -125,26 +112,12 @@
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
   </a>
 </p>
-
-<br>
-
-<p>
-  <b>Visual Circuit Designer</b>
-  <br>
-  <sub>Веб-инструмент для проектирования, симуляции и управления цифровыми логическими схемами.</sub>
-  <br><br>
-  <sub><b>Stack:</b> Next.js, React, Node.js, Express, Python, PostgreSQL, Docker, Grafana, Loki</sub>
-  <br><br>
-  <a href="https://github.com/AlexToday111/Visual-Circuit-Designer">
-    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
-  </a>
-</p>
-
 </td>
 
 <td width="25%" valign="top" align="center">
-
 <p>
+  <img src="Logos/projects/PingTower.png" height="64" alt="PingTower logo">
+  <br>
   <b>PingTower</b>
   <br>
   <sub>Система мониторинга сайтов и сервисов с дашбордом, алертами и статистикой надёжности.</sub>
@@ -155,25 +128,9 @@
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
   </a>
 </p>
-
-<br>
-
-<p>
-  <b>DatsPulse</b>
-  <br>
-  <sub>Python-бот с модульной архитектурой для автоматизации и реализации пользовательских стратегий.</sub>
-  <br><br>
-  <sub><b>Stack:</b> Python</sub>
-  <br><br>
-  <a href="https://github.com/AlexToday111/DatsPulse">
-    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
-  </a>
-</p>
-
 </td>
 
 <td width="25%" valign="top" align="center">
-
 <p>
   <img src="Logos/projects/atlas.png" height="64" alt="ATLAS logo">
   <br>
@@ -187,10 +144,68 @@
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
   </a>
 </p>
+</td>
 
-<br>
+</tr>
 
+<tr>
+<td colspan="4"><br></td>
+</tr>
+
+<tr>
+
+<td width="25%" valign="top" align="center">
 <p>
+  <img src="Logos/projects/SmartActivity.png" height="64" alt="Smart logo">
+  <br>
+  <b>Smart Activity Tracker</b>
+  <br>
+  <sub>Сервис для сбора пользовательских событий и расчёта базовой продуктовой аналитики.</sub>
+  <br><br>
+  <sub><b>Stack:</b> Java, Spring Boot, PostgreSQL, Flyway, OpenAPI, Prometheus, Grafana, Testcontainers</sub>
+  <br><br>
+  <a href="https://github.com/AlexToday111/Smart-Activity-Tracker">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
+  </a>
+</p>
+</td>
+
+<td width="25%" valign="top" align="center">
+<p>
+  <img src="Logos/projects/VisualCircuit.svg" height="64" alt="VCD logo">
+  <br>
+  <b>Visual Circuit Designer</b>
+  <br>
+  <sub>Веб-инструмент для проектирования, симуляции и управления цифровыми логическими схемами.</sub>
+  <br><br>
+  <sub><b>Stack:</b> Next.js, React, Node.js, Express, Python, PostgreSQL, Docker, Grafana, Loki</sub>
+  <br><br>
+  <a href="https://github.com/AlexToday111/Visual-Circuit-Designer">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
+  </a>
+</p>
+</td>
+
+<td width="25%" valign="top" align="center">
+<p>
+  <img src="Logos/projects/DatsPulse.png" height="64" alt="DatsPulse logo">
+  <br>
+  <b>DatsPulse</b>
+  <br>
+  <sub>Python-бот с модульной архитектурой для автоматизации и реализации пользовательских стратегий.</sub>
+  <br><br>
+  <sub><b>Stack:</b> Python</sub>
+  <br><br>
+  <a href="https://github.com/AlexToday111/DatsPulse">
+    <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
+  </a>
+</p>
+</td>
+
+<td width="25%" valign="top" align="center">
+<p>
+  <img src="Logos/projects/GreenLogo.png" height="64" alt="Trade360Lab">
+  <br>
   <b>Trade360Lab</b>
   <br>
   <sub>Платформа для исследования, подготовки данных, запуска и сравнения торговых сценариев.</sub>
