@@ -11,7 +11,9 @@
 <h3 align="center">Hard-skills</h3>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,hibernate,docker,github,git,maven,kafka,rabbitmq,junit,nginx,prometheus,grafana,mysql,githubactions,postgres,mongodb,redis,fastapi,grpc&perline=5" alt="Hard skills">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,spring,springsecurity,hibernate,docker,kubernetes,github,git,maven,gradle,kafka,rabbitmq,junit,nginx,prometheus,grafana,postgres,mongodb,redis,swagger,websocket,grpc,clickhouse,linux,postman,jira,githubactions&perline=6" alt="Hard skills">
+</p>
+
 </p>
 
 </td>
@@ -214,6 +216,9 @@
   <br><br>
   <a href="https://github.com/Trade360Lab/Trade360Lab">
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
+  </a>
+  <a href="https://t360lab.tech/">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=16a34a&style=for-the-badge" alt="Website">
   </a>
 </p>
 
