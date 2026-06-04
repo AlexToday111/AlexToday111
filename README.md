@@ -145,6 +145,9 @@
   <a href="https://github.com/ATLAS-lifeops/ATLAS">
     <img src="https://img.shields.io/static/v1?label=&message=Repository&color=000000&style=for-the-badge&logo=github" alt="Repository">
   </a>
+  <a href="https://atlas-lifeops.github.io/ATLAS-landing-page/">
+    <img src="https://img.shields.io/static/v1?label=&message=Website&color=16a34a&style=for-the-badge" alt="Website">
+  </a>
 </p>
 </td>
 
