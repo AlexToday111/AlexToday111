@@ -1,25 +1,68 @@
-<p align="center">
-  <img src="./Logos/videos.gif" height="300" alt="videos gif">
-</p>
+<div align="center">
 
-<h2 align="center">Technical stack</h2>
-
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="60%" valign="middle" align="left">
 
-<h3 align="center">Hard-skills</h3>
+<h2 align="left">About me</h2>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,spring,springsecurity,hibernate,docker,kubernetes,github,git,maven,gradle,kafka,rabbitmq,junit,nginx,prometheus,grafana,postgres,mongodb,redis,swagger,websocket,grpc,clickhouse,linux,postman,jira,githubactions&perline=6" alt="Hard skills">
+<p align="left">
+  Привет! Я — backend-разработчик, сфокусированный на Java/Kotlin, Spring Boot,
+  базах данных, event-driven архитектуре и надёжных backend-системах.
 </p>
 
+<p align="left">
+  Интересуюсь fintech, distributed systems, observability, clean architecture
+  и production-grade разработкой.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/static/v1?label=Russian&message=Native&color=8A2BE2&style=for-the-badge" alt="Russian Native">
+  <img src="https://img.shields.io/static/v1?label=English&message=B2&color=8A2BE2&style=for-the-badge" alt="English B2">
+</p>
+<p align="Center">
+  <a href="https://t.me/ba6kir">
+    <img src="Logos/telegram-8x.png" height="30" alt="Telegram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ba6kir.online/">
+    <img src="Logos/favicon.png" height="30" alt="ba6kir">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AlexToday111/">
+    <img src="Logos/leetcode.svg" height="30" alt="LeetCode">
+  </a>
 </p>
 
 </td>
-<td width="50%" valign="top" align="center">
 
-<h3 align="center">Processes</h3>
+<td width="40%" valign="middle" align="center">
+
+<img src="./Logos/123.gif" height="250" alt="Backend gif">
+
+</td>
+</tr>
+</table>
+
+
+<h2 align="center">Technologies && Processes</h2>
+
+<p align="center">
+  <b>Backend</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,spring,springsecurity,hibernate,maven,gradle,junit&perline=8" alt="Backend stack">
+  <br>
+  <b>Databases & Storage</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,clickhouse&perline=8" alt="Databases and storage">
+  <br>
+  <b>Messaging & API</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,rabbitmq,swagger,websocket,grpc,postman&perline=8" alt="Messaging and API">
+  <br>
+  <b>DevOps & Observability</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,nginx,prometheus,grafana,githubactions,linux&perline=8" alt="DevOps and observability">
+  <br>
+  <b>Tools & Workflow</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,jira&perline=8" alt="Tools and workflow">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Agile&color=000000&style=for-the-badge" alt="Agile">
@@ -29,31 +72,52 @@
   <img src="https://img.shields.io/static/v1?label=&message=Jira&color=000000&style=for-the-badge" alt="Jira">
 </p>
 
-<h3 align="center">Languages</h3>
+---
+
+<h2 align="center">Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexToday111&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+</p>
 
 <table align="center">
 <tr>
-<th>Язык</th>
-<th>Уровень</th>
-<th>Прогресс</th>
-</tr>
-<tr>
-<td><b>Русский</b></td>
-<td>Нативный</td>
-<td>🟣🟣🟣🟣🟣 100%</td>
-</tr>
-<tr>
-<td><b>English</b></td>
-<td>B2</td>
-<td>🟣🟣🟣⚪⚪ 60%</td>
-</tr>
-</table>
-
+<td align="center" width="50%">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexToday111&theme=tokyonight&exclude=html,css"
+    alt="Top Languages"
+  />
+</td>
+<td align="center" width="50%">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexToday111&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </td>
 </tr>
 </table>
 
 <br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=AlexToday111&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</td>
+<td align="center" width="60%">
+  <img
+    src="https://leetcard.jacoblin.cool/AlexToday111?theme=dark&font=baloo&ext=contest"
+    alt="LeetCode Stats"
+  />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -231,35 +295,3 @@
 </table>
 
 <br>
-
----
-
-<table align="center">
-<tr>
-<td align="center" width="40%">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexToday111&theme=tokyonight&exclude=html,css"
-    alt="Top Languages"
-  />
-</td>
-<td align="center" width="60%">
-  <img
-    src="https://leetcard.jacoblin.cool/AlexToday111?theme=dark&font=baloo&ext=contest"
-    alt="LeetCode stats"
-  />
-</td>
-</tr>
-</table>
-
-<h2 align="center">Contacts</h2>
-
-<p align="center">
-  <a href="https://t.me/ba6kir">
-    <img src="Logos/telegram-8x.png" height="40" alt="Telegram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AlexToday111/">
-    <img src="Logos/leetcode.svg" height="46" alt="LeetCode">
-  </a>
-
-</p>
