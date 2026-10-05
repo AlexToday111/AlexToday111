@@ -7,20 +7,22 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-  Привет! Я — backend-разработчик, сфокусированный на Java/Kotlin, Spring Boot,
-  базах данных, event-driven архитектуре и надёжных backend-системах.
+  Привет! Я — backend-разработчик, работающий с Java, Kotlin и Go.
+  Фокусируюсь на backend-системах, REST/gRPC API, базах данных,
+  event-driven архитектуре и распределённых системах.
 </p>
 
 <p align="left">
-  Интересуюсь fintech, distributed systems, observability, clean architecture
-  и production-grade разработкой.
+  Интересуюсь fintech, high-load системами, наблюдаемостью, чистой архитектурой
+  и production разработкой.
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/static/v1?label=Russian&message=Native&color=8A2BE2&style=for-the-badge" alt="Russian Native">
   <img src="https://img.shields.io/static/v1?label=English&message=B2&color=8A2BE2&style=for-the-badge" alt="English B2">
 </p>
-<p align="Center">
+
+<p align="center">
   <a href="https://t.me/ba6kir">
     <img src="Logos/telegram-8x.png" height="30" alt="Telegram">
   </a>
@@ -44,12 +46,11 @@
 </tr>
 </table>
 
-
 <h2 align="center">Technologies && Processes</h2>
 
 <p align="center">
   <b>Backend</b><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,spring,springsecurity,hibernate,maven,gradle,junit&perline=8" alt="Backend stack">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,go,spring,springsecurity,hibernate,maven,gradle,junit&perline=9" alt="Backend stack">
   <br>
   <b>Databases & Storage</b><br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,clickhouse&perline=8" alt="Databases and storage">
