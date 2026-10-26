@@ -27,7 +27,7 @@
     <img src="Logos/telegram-8x.png" height="30" alt="Telegram">
   </a>
   &nbsp;&nbsp;
-  <a href="https://ba6kir.online/">
+  <a href="https://ba6kir.ru/">
     <img src="Logos/favicon.png" height="30" alt="ba6kir">
   </a>
   &nbsp;&nbsp;
